@@ -2,7 +2,7 @@
 
 ## Project Goals
 
-1. Short-term
+**1.0**
 
 * Markdown parser
 * Editor
@@ -10,14 +10,14 @@
 * Git storage
 * Low system requirements
 
-2. Mid-term
+**2.0**
 
 * User authentication and authorization
 * Advanced Markdown dialects (think of Graphs, Math, Spreadsheets, ...)
 * Fulltext and fuzzy search
 * Multiple git repositories
 
-3. Long-term
+**3.0**
 
 * Comments on files/lines per git revisions
 * Forks and pull-requests
