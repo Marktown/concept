@@ -9,12 +9,13 @@
 * File browser
 * Git storage
 * Low system requirements
+* Basic full text search
 
 **2.0**
 
 * User authentication and authorization
 * Advanced Markdown dialects (think of Graphs, Math, Spreadsheets, ...)
-* Fulltext and fuzzy search
+* Advanced search (fuzzy, intelligent, ...)
 * Multiple git repositories
 
 **3.0**
