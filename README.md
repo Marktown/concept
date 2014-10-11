@@ -2,7 +2,7 @@
 
 ## Project Goals
 
-### Primary
+1. Short-term
 
 * Markdown parser
 * Editor
@@ -10,14 +10,14 @@
 * Git storage
 * Low system requirements
 
-### Secondary
+2. Mid-term
 
 * User authentication and authorization
 * Advanced Markdown dialects (think of Graphs, Math, Spreadsheets, ...)
 * Fulltext and fuzzy search
 * Multiple git repositories
 
-### Tertiary
+3. Long-term
 
 * Comments on files/lines per git revisions
 * Forks and pull-requests
@@ -25,10 +25,6 @@
 * Publishing
 * Storage integration (Dropbox, Github, ...)
 * Plugin system
-
-### Secondary
-
-### Tertiary
 
 ## Why Markdown
 
