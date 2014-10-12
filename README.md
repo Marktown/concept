@@ -27,6 +27,12 @@
 * Storage integration (Dropbox, Github, ...)
 * Plugin system
 
+## Technical Overview
+
+* Storage in Git
+* REST backend in Go/Beego for Git abstraction
+* Javascript UI for Markdown editor and file browser
+
 ## Why Markdown
 
 As of today the Markdown language is the defacto standard for documentation in the context of software development. It is just as suitable for writing simple "readme" files as for writing multi-part project documents or even whole books with hundreds of pages.
