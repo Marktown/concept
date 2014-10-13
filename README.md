@@ -5,7 +5,7 @@
 **1.0**
 
 * Markdown parser
-* Editor
+* Editor (buttons for inserting attributes: tables, bold-text, italic-text, ...)
 * File browser
 * Git storage
 * Low system requirements
