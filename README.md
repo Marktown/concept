@@ -9,12 +9,13 @@
 * File browser
 * Git storage
 * Low system requirements
+* Basic full text search
 
 **2.0**
 
 * User authentication and authorization
 * Advanced Markdown dialects (think of Graphs, Math, Spreadsheets, ...)
-* Fulltext and fuzzy search
+* Advanced search (fuzzy, intelligent, ...)
 * Multiple git repositories
 
 **3.0**
@@ -25,6 +26,12 @@
 * Publishing
 * Storage integration (Dropbox, Github, ...)
 * Plugin system
+
+## Technical Overview
+
+* Storage in Git
+* REST backend in Go/Beego for Git abstraction
+* Javascript UI for Markdown editor and file browser
 
 ## Why Markdown
 
