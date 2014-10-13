@@ -1,9 +1,9 @@
 # API Definitions
 
 - createFile(path, content)
-	- touch path
-	- updateFile(path, content)
+	- creates the given file
+	- call api method updateFile(path, content)
 - updateFile(path, content)
-	- echo content > path
+	- puts content in file
 - removeFile(path)
-	- rm path
+	- delete the given file
