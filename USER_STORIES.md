@@ -10,7 +10,7 @@ The purpose of this document is to provide knowledge about the users. It should 
 4. Imagery. Give the story emotional resonance.
 5. Structure. Give the story a shape to help the audience fill in the blanks.
 
-**Important: Keep in mind that the purpose of stories is not to provide answers / solutions. In fact they should help your mind coming up with new (interesting) questions and ideas.**
+**The purpose of a story is to help you identify problems and solutions. Therefore, a story should NOT provide answers or solutions, but enable insights and lead to asking interesting questions.**
 
 
 ## Stories
