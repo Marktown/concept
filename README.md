@@ -1,5 +1,7 @@
 # Concept
 
+[User Stories](USER_STORIES.md).
+
 ## Project Goals
 
 **1.0**
