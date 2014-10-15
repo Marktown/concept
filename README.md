@@ -1,6 +1,11 @@
 # Concept
 
-[User Stories](USER_STORIES.md).
+## Summary
+
+1. **[User Stories](USER_STORIES.md)**
+2. [Project Goals](#project-goals)
+3. [Technical Architecture](#technical-architecture)
+4. [About Markdown](#about-markdown)
 
 ## Project Goals
 
@@ -29,17 +34,17 @@
 * Storage integration (Dropbox, Github, ...)
 * Plugin system
 
-## Technical Overview
+## Technical Architecture
 
 * Storage in Git
 * REST backend in Go/Beego for Git abstraction
 * Javascript UI for Markdown editor and file browser
 
-## Why Markdown
+## About Markdown
 
 As of today the Markdown language is the defacto standard for documentation in the context of software development. It is just as suitable for writing simple "readme" files as for writing multi-part project documents or even whole books with hundreds of pages.
 
-Key Advantages
+**Key Advantages**
 
 * Minimal requirements to the editor.
 * Human readable on its own.
