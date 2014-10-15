@@ -1,8 +1,10 @@
 # User Stories
 
-The purpose of this document is to provide knowledge about the users. It should give some insight in why and how Marktown is being used.
+The user stories will give you a brief introduction about why and how Marktown is used.
 
-## About
+**The purpose of a user story is to help you identify problems and solutions.**
+
+## How to write a story
 
 1. Start by answering the basic questions. Who, what, when, where, why, how.
 2. Purpose. Think about why you are telling the story.
@@ -10,8 +12,7 @@ The purpose of this document is to provide knowledge about the users. It should 
 4. Imagery. Give the story emotional resonance.
 5. Structure. Give the story a shape to help the audience fill in the blanks.
 
-**The purpose of a story is to help you identify problems and solutions. Therefore, a story should NOT provide answers or solutions, but enable insights and lead to asking interesting questions.**
-
+Always keep in mind, a story should not provide answers or solutions, but enable insights and lead to asking interesting questions.
 
 ## Stories
 
