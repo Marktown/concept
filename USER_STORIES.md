@@ -10,6 +10,9 @@ The purpose of this document is to provide knowledge about the users. It should 
 4. Imagery. Give the story emotional resonance.
 5. Structure. Give the story a shape to help the audience fill in the blanks.
 
+**Important: Keep in mind that the purpose of stories is not to provide answers / solutions. In fact they should help your mind coming up with new (interesting) questions and ideas.**
+
+
 ## Stories
 
 > I want to contribute documentation to software projects. Therefore, I have to deal a lot with **raw material** like shell commands and source code abstracts. Also there is a lot of interdependency between various components. Usually this requires to **link** to related documents together, **refer** to external stuff like web pages or embedding other to **embed** resources like images.
