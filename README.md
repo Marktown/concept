@@ -29,7 +29,7 @@
 
 * Comments on files/lines per git revisions
 * Forks and pull-requests
-* Live collaboration
+* Live collaboration (multi-cursor, shared buffer, interval "backup" in the file store)
 * Publishing
 * Storage integration (Dropbox, Github, ...)
 * Plugin system
